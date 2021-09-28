@@ -9,15 +9,27 @@ Installing Webstorm
 6) You see the home screen and you can begin using Webstorm for HTML, CSS, JS or JSONs!
 
 Part 2:
+
 **Branch**: Different versions of a repository
-/n**Clone**: Creates a local copy of the repository
+
+**Clone**: Creates a local copy of the repository
+
 **Commit**: Saved changes related to uploaded code on Github
+
 **Fetch**: Retrieve new work done by others.
+
 **GIT**: Version control software that Github is built on.
+
 **Github**: Code hosting platform
+
 **Merge**: Bringing the current readme and pull request together
+
 **Merge Conflict**: People making changes to the same line of the same file but on different branches
+
 **Push**: Upload local repository content to a remote one.
+
 **Pull**: Someone proposing changes and requests and then you choosing to merge them into their branch
+
 **Remote**: A place where your code is stored.
+
 **Repository**: "A storage" to organize a single prjoect
