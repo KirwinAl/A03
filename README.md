@@ -10,7 +10,7 @@ Installing Webstorm
 
 Part 2:
 **Branch**: Different versions of a repository
-**Clone**: Creates a local copy of the repository
+/n**Clone**: Creates a local copy of the repository
 **Commit**: Saved changes related to uploaded code on Github
 **Fetch**: Retrieve new work done by others.
 **GIT**: Version control software that Github is built on.
